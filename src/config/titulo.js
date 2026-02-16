@@ -1,1 +1,1 @@
-module.exports = 'Ecored Base PKG'
+module.exports = 'Verificación de requisitos de instalaciones eléctricas'
